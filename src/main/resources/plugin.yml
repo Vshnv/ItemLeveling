@@ -1,0 +1,9 @@
+name: ItemLeveling
+version: ${project.version}
+main: com.rocketmail.vaishnavanil.itemlevelingattempt.ItemLeveling
+api-version: 1.13
+prefix: ItemLeveling
+authors: [Vaishnav]
+commands:
+  levelitem:
+description: Add more grinding to getting items
